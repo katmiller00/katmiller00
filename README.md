@@ -55,6 +55,8 @@
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Pr" width="40" height="40"/>&nbsp; 
 </div>
 
+---
+
 ### ✅Certifications:
 
 - <strong>100 Days of Code: The Complete Python Bootcamp</strong> <img src="https://asset.brandfetch.io/idTqV2BNgX/iddwu7h7Fu.png" title="Udemy" alt="Udemy" width="30" height="30"/>
