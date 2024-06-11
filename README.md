@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 
-- :rocket: Seeking opportunities in data-related roles
+- :rocket: Seeking opportunities in economic research or data-related roles
 
 - :telescope: Focused on building my programming and coding skills
 
